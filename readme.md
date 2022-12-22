@@ -1,4 +1,4 @@
-## Readme
+## Auto PDF Printer
 
 This script monitors a specified directory for new files and prints them if their names contain any of the specified keywords.
 
